@@ -2,10 +2,9 @@
 
 #include "Recipt.h"
 #include "Meal.h"
-using namespace CppCLR_WinFormsProject2;
+using namespace Vending_Machine1;
 
-//using namespace CppCLR_WinFormsProject2;
-namespace CppCLRWinFormsProject {
+namespace Vending_Machine_2 {
 
 	using namespace System;
 	using namespace System::ComponentModel;

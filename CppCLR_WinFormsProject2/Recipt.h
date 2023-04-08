@@ -11,7 +11,7 @@ using namespace System::Collections::Generic;
 using namespace System;
 
 
-namespace CppCLR_WinFormsProject2 {
+namespace Vending_Machine1 {
 
 	using namespace System;
 	using namespace System::ComponentModel;
