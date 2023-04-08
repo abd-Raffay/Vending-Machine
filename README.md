@@ -1,4 +1,4 @@
-#Vending Machine by Abdul Raffay
+# Vending Machine by Abdul Raffay
 This is a vending machine program created using C++ Windows Forms. The program allows the user to select a product from a list of available options and make a purchase using virtual currency.
 
 # Requirements
